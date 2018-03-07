@@ -12,3 +12,7 @@
 2.Circular Linked List
      -Pushing 
      -Printing
+
+<br/>
+3. Stack two types 1). Normal method 2).Using Linked List
+      - push -pop -isEmpty -peek 
